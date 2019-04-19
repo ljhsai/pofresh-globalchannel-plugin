@@ -1,0 +1,9 @@
+{
+	"name": "pofresh-globalchannel-plugin",
+	"version": "1.0.0",
+	"private": false,
+	"dependencies": {
+  	"redis": "0.10.0",
+  	"pofresh-logger": "1.0.2"
+	}
+}
